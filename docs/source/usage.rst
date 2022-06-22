@@ -45,9 +45,10 @@ For example:
 >>> lumache.get_random_ingredients()
 ['shells', 'gorgonzola', 'parsley']
 
+**Removed table class name**
+
 .. list-table:: Ingredients
     :header-rows: 1
-    :class: wy-table-responsive
     :align: center
 
     * - Ingredient
