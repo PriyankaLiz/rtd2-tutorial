@@ -47,6 +47,10 @@ For example:
 
 **Removed table class name**
 
+parsley You can add it if required for a more flavoursome experience.
+parsley You can add it if required for a more flavoursome experience.
+
+
 .. list-table:: Ingredients
     :header-rows: 1
     :align: center
@@ -76,3 +80,14 @@ For example:
       - veg
       - Yes You can add it if required for a more flavoursome experience. You can add it if required for a more flavoursome experience. You can add it if required for a more flavoursome experience. You can add it if required for a more flavoursome experience.
 
+.. list-table:: Ingredients Not to be used
+    :header-rows: 1
+    :class: wy-table-responsive
+    :align: center
+
+    * - Ingredient
+      - Veg or Non-Veg
+      - Mandatory or not
+    * - parsley You can add it if required for a more flavoursome experience.
+      - veg. You can add it if required for a more flavoursome experience.
+      - Not mandatory. You can add it if required for a more flavoursome experience.
