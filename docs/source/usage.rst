@@ -45,6 +45,20 @@ For example:
 >>> lumache.get_random_ingredients()
 ['shells', 'gorgonzola', 'parsley']
 
+.. list-table:: Ingredients
+    :header-rows: 1
+    :align: center
+
+    * - Ingredient
+      - Veg or Non-Veg
+      - Mandatory or not
+    * - PARSLEY_VEG_THYME_ROSEMARY
+      - PARSLEY_VEG_THYME
+      - Not mandatory. You can add it if required for a more flavoursome experience. You can add it if required for a more flavoursome experience.
+    * - PARSLEY_VEG_THYME_ROSEMARY_BASIL
+      - PARSLEY_VEG_THYME, PARSLEY_VEG_THYME_ROSEMARY, PARSLEY_VEG_THYME_ROSEMARY_BASIL
+      - Not mandatory. You can add it if required for a more flavoursome experience. You can add it if required for a more flavoursome experience.
+
 **Removed table class name**
 
 parsley You can add it if required for a more flavoursome experience.
