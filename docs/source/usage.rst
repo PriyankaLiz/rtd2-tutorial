@@ -55,7 +55,7 @@ parsley You can add it if required for a more flavoursome experience.
     :header-rows: 1
     :align: center
 
-    * - Ingredient
+    * - Ingredient_Ingredient_Ingredient_Veg_NonVeg
       - Veg or Non-Veg
       - Mandatory or not
     * - parsley You can add it if required for a more flavoursome experience.
@@ -86,8 +86,8 @@ parsley You can add it if required for a more flavoursome experience.
     :align: center
 
     * - Ingredient
-      - Veg or Non-Veg
-      - Mandatory or not
+      - Veg_or_Non-Veg_Veg_Nonveg_Nonveg
+      - Only_Mandatory_orOnly_Optional_or_Both
     * - parsley You can add it if required for a more flavoursome experience.
       - veg. You can add it if required for a more flavoursome experience.
       - Not mandatory. You can add it if required for a more flavoursome experience.
