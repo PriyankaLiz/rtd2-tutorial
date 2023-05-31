@@ -45,6 +45,8 @@ For example:
 >>> lumache.get_random_ingredients()
 ['shells', 'gorgonzola', 'parsley']
 
+**TEST WITH BREAK-WORD**
+
 .. list-table:: Ingredients
     :header-rows: 1
     :align: center
