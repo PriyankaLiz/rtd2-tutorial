@@ -3,8 +3,8 @@ Usage
 
 .. _installation:
 
-Installation
-------------
+Installation - Test with max width
+----------------------------------
 
 To use Lumache, first install it using pip:
 
