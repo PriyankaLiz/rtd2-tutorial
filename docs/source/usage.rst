@@ -14,6 +14,13 @@ To use Lumache, first install it using pip:
 
    (.venv) $ pip install lumache
 
+.. ABC-555:
+
+Testing Uppercase in Tags
+-------------------------
+
+Testing
+
 Creating recipes - Test with max width
 --------------------------------------
 
