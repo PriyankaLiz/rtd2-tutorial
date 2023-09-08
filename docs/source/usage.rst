@@ -21,6 +21,8 @@ Testing Uppercase in Tags
 
 Testing
 
+.. _CREATEREC:
+
 Creating recipes - Test with max width
 --------------------------------------
 
