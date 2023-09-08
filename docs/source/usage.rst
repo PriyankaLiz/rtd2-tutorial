@@ -14,7 +14,7 @@ To use Lumache, first install it using pip:
 
    (.venv) $ pip install lumache
 
-.. ABC-555:
+.. _ABC-555:
 
 Testing Uppercase in Tags
 -------------------------
