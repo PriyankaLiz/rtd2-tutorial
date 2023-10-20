@@ -60,9 +60,9 @@ For example:
     :stub-columns: 1
     :align: center
 
-    * - Ingredient Testing
-      - Veg or Non-Veg
-      - Mandatory or not
+    * - Ingreds
+      - Veg
+      - Mand
     * - PARSLEY_VEG_THYME_ROSEMARY
       - PARSLEY_VEG_THYME
       - Not mandatory. You can add it if required for a more flavoursome experience. You can add it if required for a more flavoursome experience.
