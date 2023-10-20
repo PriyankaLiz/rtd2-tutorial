@@ -56,11 +56,11 @@ For example:
 
 **TEST WITH BREAK-WORD**
 
-.. list-table:: Ingredients
-    :header-rows: 1
+.. list-table:: Ingredients TO BE USED
+    :stub-columns: 1
     :align: center
 
-    * - Ingredient
+    * - Ingredient Testing
       - Veg or Non-Veg
       - Mandatory or not
     * - PARSLEY_VEG_THYME_ROSEMARY
