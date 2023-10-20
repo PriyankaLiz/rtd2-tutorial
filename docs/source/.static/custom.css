@@ -4,6 +4,10 @@
     word-break: break-word;
 }
 
+.wy-table-responsive table th.stub{
+    vertical-align: top;
+}
+
 .wy-nav-content{
     max-width: none;
 }
