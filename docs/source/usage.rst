@@ -19,7 +19,16 @@ To use Lumache, first install it using pip:
 Testing Uppercase in Tags
 -------------------------
 
-Testing
+.. list-table:: Ingredients TO BE USED IN THE RECIPE
+    :stub-columns: 1
+    :align: center
+
+    * - Ingreds
+      - Veg
+      - Mand
+    * - PARSLEY_VEG_THYME_ROSEMARY
+      - PARSLEY_VEG_THYME
+      - Not mandatory. You can add it if required for a more flavoursome experience. You can add it if required for a more flavoursome experience.
 
 .. _CREATEREC:
 
