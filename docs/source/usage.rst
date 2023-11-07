@@ -28,7 +28,9 @@ Testing Uppercase in Tags
       - Mand
     * - PARSLEY_VEG_THYME_ROSEMARY
       - PARSLEY_VEG_THYME
-      - Not mandatory. You can add it if required for a more flavoursome experience. You can add it if required for a more flavoursome experience.
+      - Not mandatory. 
+        You can add it if required for a more flavoursome experience. 
+        You can add it if required for a more flavoursome experience.
 
 .. _CREATEREC:
 
