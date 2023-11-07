@@ -101,7 +101,6 @@ parsley You can add it if required for a more flavoursome experience.
 
 .. list-table:: Ingredients to be used
     :header-rows: 1
-    :class: wy-table-responsive
     :align: center
 
     * - Ingredient
@@ -116,7 +115,6 @@ parsley You can add it if required for a more flavoursome experience.
 
 .. list-table:: Ingredients Not to be used
     :header-rows: 1
-    :class: wy-table-responsive
     :align: center
 
     * - Ingredient
