@@ -2,7 +2,7 @@
 
 /* Added code to display tables without horizontal scrollbars */
 table.docutils td, table.docutils th {
-    white-space: normal !important;
+    white-space: pre-wrap;
 }
 /* .wy-table-responsive table td, .wy-table-responsive table th {
     white-space: normal;
